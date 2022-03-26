@@ -1,1 +1,1 @@
-# javascript
+# This is a Repository for Javascript exercises
